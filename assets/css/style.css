@@ -1,5 +1,5 @@
 
-  }
+  
   .intro{
       float: left;
       margin-left: 25px;
@@ -26,10 +26,17 @@
      color: red;
   
   }
+  .myblock{
+      padding-top: 100px;
+      margin-top: 10px;
+      display: block;
+      height: 300px;
+      background-color: blue;
+  }
   .container2{
       float: left;
       display: block;
-      width: 65%;
+      width: 45%;
   }
   .container3{
       align-items: flex-end;
@@ -52,3 +59,46 @@
       background-color: grey;
   
   }
+  .moringa{
+      display: block;
+      height: 300px;
+      background-color: blueviolet;
+  }
+  .stories{
+      float: left;
+      width: 45%;
+  }
+  .orientation{
+     padding-top: 10px;
+  }
+  .meeting{
+      display: block;
+      height: 350px;
+      background-color: blue;
+      /* margin: 0;
+      padding-top: 10px; */
+  }
+  .board{
+     
+      float: left;
+     text-align: left;
+  }
+  .image3{
+      float: left;
+  }
+  .mentors{
+      height: 600px;
+      display: block;
+  }
+  .Rose{
+      display: flex;
+      width: 25%;
+      display: inline;
+    
+  }
+  .byrone{
+      display: flex;
+      width: 25%;
+      display: inline;
+  }
+ 
