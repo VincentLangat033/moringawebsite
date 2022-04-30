@@ -1,0 +1,54 @@
+
+  }
+  .intro{
+      float: left;
+      margin-left: 25px;
+      /* padding-top: 20px; */
+      
+  }
+  .intro2{
+      float: left;
+      margin-top: 30px;
+  }
+  nav{
+      float: right;
+  }
+  nav ul{
+      margin: 0%;
+      list-style: none;
+  }
+  nav li{
+      display: inline-block;
+      margin-left: 25px;
+      padding-top: 10px;
+  }
+  .red{
+     color: red;
+  
+  }
+  .container2{
+      float: left;
+      display: block;
+      width: 65%;
+  }
+  .container3{
+      align-items: flex-end;
+      float: right;
+      margin-right: 50px;
+      margin-right: 21px;
+      display: inline-flex;
+      margin-top: 0;
+      padding-bottom: 10px;
+  }
+  footer{
+      position: fixed;
+      left: 10px;
+      bottom: 5px;
+      right: 10px;   
+      width: 95%;  
+      height: 30px;
+      text-align: center;
+      text-decoration: dotted;
+      background-color: grey;
+  
+  }
