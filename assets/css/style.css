@@ -31,12 +31,12 @@
       margin-top: 10px;
       display: block;
       height: 300px;
-      background-color: blue;
+      /* background-color: blue; */
   }
   .container2{
       float: left;
       display: block;
-      width: 45%;
+      width: 50%;
   }
   .container3{
       align-items: flex-end;
@@ -56,13 +56,13 @@
       height: 30px;
       text-align: center;
       text-decoration: dotted;
-      background-color: grey;
+      background-color: grey; 
   
   }
   .moringa{
       display: block;
       height: 300px;
-      background-color: blueviolet;
+      /* background-color: blueviolet; */
   }
   .stories{
       float: left;
@@ -71,34 +71,64 @@
   .orientation{
      padding-top: 10px;
   }
-  .meeting{
+  .meeting::after{
+    content: "";
+    clear: both;
+    display: table;
       display: block;
-      height: 350px;
-      background-color: blue;
+      /* height: 350px; */
+      /* background-color: blue; */
       /* margin: 0;
       padding-top: 10px; */
   }
   .board{
      
-      float: left;
-     text-align: left;
+    float: left;
+    width: 50%;
+    padding: 5px;
   }
   .image3{
       float: left;
   }
-  .mentors{
-      height: 600px;
-      display: block;
-  }
-  .Rose{
-      display: flex;
-      width: 25%;
-      display: inline;
-    
-  }
-  .byrone{
-      display: flex;
-      width: 25%;
-      display: inline;
+  
   }
  
+  }
+  }
+  .bike{
+      float: left;
+  }
+  .image9{
+    
+    float: right;
+  }
+  .contactus{
+      height: 200px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .project::after{
+    content: "";
+    clear: both;
+    display: table;
+
+  }
+ .bike{
+     float: left;
+     width: 50%;
+     padding: 5px;
+ }
