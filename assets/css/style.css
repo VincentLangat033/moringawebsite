@@ -23,20 +23,24 @@
       padding-top: 10px;
   }
   .red{
-     color: red;
+     color: #EC4067;
   
   }
   .myblock{
       padding-top: 100px;
       margin-top: 10px;
       display: block;
-      height: 300px;
+      /* height: 300px; */
       /* background-color: blue; */
   }
   .container2{
       float: left;
       display: block;
-      width: 50%;
+      width: 65%;
+  }
+  .container23{
+      float: right;
+      width: 35%;
   }
   .container3{
       align-items: flex-end;
@@ -61,7 +65,7 @@
   }
   .moringa{
       display: block;
-      height: 300px;
+    
       /* background-color: blueviolet; */
   }
   .stories{
@@ -91,9 +95,7 @@
       float: left;
   }
   
-  }
- 
-  }
+
   }
   .bike{
       float: left;
@@ -132,3 +134,24 @@
      width: 50%;
      padding: 5px;
  }
+ * {
+    box-sizing: border-box;
+  }
+  
+  .stories {
+    float: left;
+    width: 60%;
+    /* padding: 5px; */
+  }
+  .orientation {
+    float: right;
+    width: 40%;
+    /* padding: 5px; */
+  }
+  
+  /* Clearfix (clear floats) */
+  .moringa::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
