@@ -22,6 +22,7 @@ This is a Moringa School Website Mock-up. The purpose of this website is to info
  This website has been hosted remotely and you can access it on gh-pages via this link https://vincentlangat033.github.io/moringawebsite/
  
 <h1> Website Layout</h1>
+<img src="./Desktop/snip.png" >
 ![Screenshot from 2022-05-06 13-20-56](https://user-images.githubusercontent.com/104572853/167114041-fb6c2a13-1f78-414d-a507-e705aeb3a7d8.png)
 ![Screenshot from 2022-05-06 13-21-09](https://user-images.githubusercontent.com/104572853/167114053-14ac0407-a673-40b2-95c3-a2ff00710597.png)
 
