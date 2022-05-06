@@ -1,3 +1,10 @@
+Moringa School Website
+This is an attempt to clone Moringa School Website 01/05/2022
+
+By Vincent Kimutai
+
+
+
 This is a Moringa School Website Mock-up trial
 I am the major contributor to the coding of this page implementing the knowledge I gained during my first week here at Moringa
 This project, I believe aims to test my knowledge and implementation of basic HTML and CSS structures and how they can be integral in developing a website.
