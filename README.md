@@ -3,9 +3,10 @@
 
 By Vincent Kimutai</h2>
 
+<h1> Description</h2>
 
-
-This is a Moringa School Website Mock-up trial
+This is a Moringa School Website Mock-up. The purpose of this website is to inform prospective students of what Moringa Offers and scholarship deals when they become available. This site contains 5 Sections; Header, Stories section, Mentors section projects and Footer section
+<h1> Setup/Installation Requirements </h1>
 I am the major contributor to the coding of this page implementing the knowledge I gained during my first week here at Moringa
 This project, I believe aims to test my knowledge and implementation of basic HTML and CSS structures and how they can be integral in developing a website.
 The set-up instructions for this website are easy to locate as I havent encrypted any of the files and I'll be hosting it on gh-pages and the link is attached as below https://vincentlangat033.github.io/moringawebsite/
