@@ -27,5 +27,12 @@ This is a Moringa School Website Mock-up. The purpose of this website is to info
 ![Screenshot from 2022-05-06 13-20-56](https://user-images.githubusercontent.com/104572853/167114041-fb6c2a13-1f78-414d-a507-e705aeb3a7d8.png)
 ![Screenshot from 2022-05-06 13-21-09](https://user-images.githubusercontent.com/104572853/167114053-14ac0407-a673-40b2-95c3-a2ff00710597.png)
 
+## Original Layout
+![](assets/images/landingpage.png)
+
+## License
+MIT License
+Copyright (c) 2022 Vincent Kimutai
+
 
 
