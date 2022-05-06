@@ -21,12 +21,9 @@ This is a Moringa School Website Mock-up. The purpose of this website is to info
  <h2> Access to the Live Link</h2>
  This website has been hosted remotely and you can access it on gh-pages via this link https://vincentlangat033.github.io/moringawebsite/
  
-I am the major contributor to the coding of this page implementing the knowledge I gained during my first week here at Moringa
-This project, I believe aims to test my knowledge and implementation of basic HTML and CSS structures and how they can be integral in developing a website.
-The set-up instructions for this website are easy to locate as I havent encrypted any of the files and I'll be hosting it on gh-pages and the link is attached as below https://vincentlangat033.github.io/moringawebsite/
-The technologies used mostly is CSS and HTML.
-Future features to include are but not limited to PHP, Bootstrap and Javascript; I believe this features will increase the responsiveness of my webpage.
-The bugs I found are the failing link to my gh-pages as it cannot load all the changes I made in my local repository.
-I will be available to be contacted via email at kimutailangat033@gmail.com, also via phone on +254723753014
-this is an open-source license and everyone can access the code for development and learning purposes.
+<h1> Website Layout</h1>
+![Screenshot from 2022-05-06 13-20-56](https://user-images.githubusercontent.com/104572853/167114041-fb6c2a13-1f78-414d-a507-e705aeb3a7d8.png)
+![Screenshot from 2022-05-06 13-21-09](https://user-images.githubusercontent.com/104572853/167114053-14ac0407-a673-40b2-95c3-a2ff00710597.png)
+
+
 
