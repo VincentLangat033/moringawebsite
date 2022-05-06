@@ -28,4 +28,4 @@ This website has been hosted remotely and you can access it on gh-pages via this
 
 ## License
 MIT License
-Copyright (c) 2022 Vincent Kimutai Langat
+Copyright (c) 2022 Vincent Kimutai Langat.
