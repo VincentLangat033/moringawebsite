@@ -1,7 +1,7 @@
  <h1> Moringa School Website</h1>
-This is an attempt to clone Moringa School Website 01/05/2022
+ <h2> This is an attempt to clone Moringa School Website 01/05/2022
 
-By Vincent Kimutai
+By Vincent Kimutai</h2>
 
 
 
