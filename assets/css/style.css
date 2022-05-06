@@ -63,19 +63,19 @@
       background-color: grey; 
   
   }
-  .moringa{
+  /* .moringa{
       display: block;
     
       /* background-color: blueviolet; */
-  }
+  /* }
   .stories{
       float: left;
       width: 45%;
-  }
-  .orientation{
-     padding-top: 10px;
-  }
-  .meeting::after{
+  } */
+  /* .orientation{
+     padding-top: 10px; */
+  } */
+  /* .meeting::after{
     content: "";
     clear: both;
     display: table;
@@ -84,12 +84,8 @@
       /* background-color: blue; */
       /* margin: 0;
       padding-top: 10px; */
-  }
-  .board{
-     
-    float: left;
-    width: 50%;
-    padding: 5px;
+  } */
+
   }
   .image3{
       float: left;
@@ -121,7 +117,7 @@
   .row::after {
     content: "";
     clear: both;
-    display: table;
+    display: flex;
   }
   .project::after{
     content: "";
@@ -153,5 +149,46 @@
   .moringa::after {
     content: "";
     clear: both;
-    display: table;
+    display: flex;
+    
+  }
+  .meeting::after{
+    clear: both;
+    display: flex;
+  }
+  .board1{
+    float: left;
+    width: 60%;
+  }
+  .board2{
+    float: right;
+    width: 40%;
+  }
+  button{
+    background-color: #EC4067;
+    color: white;\
+    font-size: 38px;
+  }
+  .bottom-Left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+  }
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    color: white;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+  }
+  .container18 {
+    position: relative;
+    text-align: center;
+    color: white;
   }
