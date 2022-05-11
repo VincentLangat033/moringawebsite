@@ -16,7 +16,7 @@ This is a Moringa School Website Mock-up. The purpose of this website is to info
 </ol>
 <h1> Technologies Used</h1>
 HTML and CSS
-<h1> Contact Details</h1>
+<h1> Contact Details</h1>git 
 Incase of any issues or questions, you can get in touch with me via email at kimutailangat033@gmail.com, also via phone on +254723753014. Also feel free to contribute to my project.
 <h2> Access to the Live Link</h2>
 This website has been hosted remotely and you can access it on gh-pages via this link https://vincentlangat033.github.io/moringawebsite/
