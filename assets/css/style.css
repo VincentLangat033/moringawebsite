@@ -1,4 +1,11 @@
+body{
+  font-family: Nunito, Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.header{
+  height: 2px;
+  padding-top: 1.0em;
+}
   
   .intro{
       float: left;
@@ -27,20 +34,26 @@
   
   }
   .myblock{
-      padding-top: 100px;
+      height: 350px;
+      padding-top: 70px;
       margin-top: 10px;
-      display: block;
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      padding-left: 4.0em;
       /* height: 300px; */
       /* background-color: blue; */
   }
   .container2{
-      float: left;
+      /* float: left;
       display: block;
-      width: 65%;
+      width: 65%; */
   }
   .container23{
-      float: right;
+    width: auto;
+      /* float: right;
       width: 35%;
+      background-position: cover; */
   }
   .container3{
       align-items: flex-end;
@@ -51,8 +64,8 @@
       margin-top: 0;
       padding-bottom: 10px;
   }
-  footer{
-      position: fixed;
+  .footer{
+      /* position: fixed; */
       left: 10px;
       bottom: 5px;
       right: 10px;   
@@ -60,9 +73,90 @@
       height: 30px;
       text-align: center;
       text-decoration: dotted;
-      background-color: grey; 
+      background-color: rgb(236, 231, 231); 
   
   }
+.vkim31{
+  display: flex;
+  flex-direction: row;
+  padding-left: 4.0em;
+  justify-content: space-between;
+
+}
+.vkim312{
+  width: 40%;
+  
+}
+.vkim3123{
+  margin-top: 60px;
+  width: 50%;
+  padding-right: 10.0em;
+  justify-content: space-around;
+}
+.vkim31234{
+  margin-top: 10px;
+  display: flex;
+  padding-left: 4.0em;
+}
+.vkim312345{
+  width: 40%;
+  margin-top: 20px;
+}
+
+.klacsy{
+  padding-top: 4.0em;
+  display: flex;
+  padding-left: 4.0em;
+}
+.klacsy1{
+  width: 40%;
+}
+.klacsy2{
+  margin-left: 35px;
+}
+.project{
+  padding-left: 4.0em;
+}
+.row{
+  padding-left: 4.0em;
+}
+.mentour{
+  padding-left: 4.0em;
+}
+.mentor1{
+  font-size: larger;
+  font-weight: 800;
+}
+.mentor2{
+  background-color: rgb(226, 222, 222);
+}
+.mentor3{
+  font-size: 10px;
+
+}
+
+.project21{
+  display: flex;
+  padding-left: 4.0em;
+  margin-top: 20px;
+  
+}
+.project001{
+  padding-left: 4.0em;
+}
+.bike10{
+  width: 50%;
+}
+.project001{
+  height: 60px;
+}
+.span001{
+  background-color: rgb(226, 222, 222);
+}
+
+.contactus{
+  padding-left: 4.0em;
+}
   /* .moringa{
       display: block;
     
@@ -118,11 +212,13 @@
     content: "";
     clear: both;
     display: flex;
+    padding-left: 4.0em;
   }
   .project::after{
     content: "";
     clear: both;
     display: table;
+    padding-top: 5.0em;
 
   }
  .bike{
@@ -166,9 +262,13 @@
   }
   button{
     background-color: #EC4067;
-    color: white;\
-    font-size: 38px;
+    color: white;
+    height: 30px;
+    border: none;
+
   }
+
+
   .bottom-Left {
     position: absolute;
     bottom: 8px;
@@ -190,5 +290,11 @@
   .container18 {
     position: relative;
     text-align: center;
+    color: white;
+  }
+  .bottom-left1 {
+    position: absolute;
+    bottom: 8px;
+    left: 18px;
     color: white;
   }
